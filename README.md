@@ -1,6 +1,8 @@
 # AOA-PBLE
-Name of the Project : Smart Delivery Planning – Fractional Knapsack 
+
+
 Project Description:
+
 Name of the Project : Smart Delivery Planning – Fractional Knapsack
 A delivery company has a vehicle with a fixed carrying capacity. It has several packages, where each package has
 a weight and an associated value/profit. The vehicle can carry at most the given capacity. To maximize the total
